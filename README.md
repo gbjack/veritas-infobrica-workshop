@@ -1,2 +1,2 @@
 # Veritas Infobrica Workshop
-![Preview](https://www.threesquare.space/edm/2018/veritas/veritas-infoFabrica-workshop/preview.png)
+![Preview](https://github.com/gbjack/veritas-infobrica-workshop/blob/master/preview.png)
